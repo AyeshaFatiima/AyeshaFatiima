@@ -3,7 +3,6 @@ Hi, I'm Ayesha Fatima  <br>BCA student | Aspiring Full-Stack Developer  <br><br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayeshaa_fatiima_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-fatima-12b598382)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/fatimaayesha/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/ayeshaa_fatiima/)
