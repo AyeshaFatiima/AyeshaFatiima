@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Ayesha</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Web+Developer;Frontend+Developer;UI%2FUX+Enthusiast" />
+</p>
+
 # 💫 About Me:
 I’m a Computer Science student and aspiring Full-Stack Developer with a strong focus on building user-friendly and scalable web applications. Alongside development, I actively practice Data Structures and Algorithms, having solved 300+ problems to strengthen my problem-solving and logical thinking skills. I enjoy turning ideas into real-world projects while continuously learning and improving my craft. <br>
 
@@ -26,9 +32,3 @@ I’m a Computer Science student and aspiring Full-Stack Developer with a strong
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
